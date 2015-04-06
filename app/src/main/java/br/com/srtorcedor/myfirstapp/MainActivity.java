@@ -20,6 +20,7 @@ public class MainActivity extends ActionBarActivity implements AdapterView.OnIte
     private Story[] stories = {};
     private static final String URL = "https://raw.githubusercontent.com/3sidedcube/Android-BBCNews/master/feed.json";
 
+    // comentário
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
